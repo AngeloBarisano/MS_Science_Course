@@ -29,6 +29,12 @@ var/
 bin/
 /bin
 
+/lib64
+
+lib64/
+
+lib64
+
 
 bin/
 include/

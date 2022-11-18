@@ -1,0 +1,56 @@
+\documentclass[a4paper]{article}
+\usepackage{graphicx}
+
+\usepackage{mathtools}
+\usepackage[a4paper, total={5in, 6.5in}]{geometry}
+\usepackage{color}
+\usepackage{tikz}
+\usepackage{lipsum}
+\usepackage{geometry}
+\geometry{a4paper, left=2.5cm, top=2.5cm, bottom=2.5cm, right=2.5cm}
+\usepackage{changepage}
+\usepackage{booktabs}
+\usepackage[font=small]{caption}
+\DeclareCaptionFormat{mycaptionfont}{\fontsize{12}{13}\selectfont#1#2#3}
+\usepackage{threeparttable}
+\usepackage{ntheorem}
+\usepackage{caption}
+\usepackage{wrapfig,lipsum,booktabs}
+\usepackage{listings}
+\usepackage{pdflscape}
+\captionsetup{format=mycaptionfont}
+\usepackage{subcaption}
+\theoremseparator{:}
+\usepackage{lscape}
+\usepackage{rotating}
+\usepackage[utf8]{inputenc}
+
+
+
+
+
+
+\begin{document}
+
+\title{ASAP Assignment 2}
+\author{Angelo Barisano; 508903 }
+\date{September 28th, 2022}
+\maketitle
+
+\newpage
+
+
+\section{Difference in Difference}
+
+
+
+
+
+
+\subsection{Task 1: Derive Diff-In-Diff Coefficients}
+
+
+
+
+
+\end{document}
